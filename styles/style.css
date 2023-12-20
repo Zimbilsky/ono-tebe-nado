@@ -48,12 +48,13 @@
   font-size: 18px;
   font-style: normal;
 }
- .header__address{
-   justify-self: end;
-   grid-column: 8/11;
+
+.header__address {
+  justify-self: end;
+  grid-column: 8/11;
 }
 
-.address__link{
+.address__link {
   text-underline-offset: 5px;
 }
 
